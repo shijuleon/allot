@@ -1,0 +1,22 @@
+{
+  "cluster_id": "1",
+  "saturated_hosts_count": "0",
+  "cluster": "us-east-1",
+  "hosts": [
+    {
+      "identifier": "box-a",
+      "capacity": "9",
+      "used": "8"
+    },
+    {
+      "identifier": "box-b",
+      "capacity": "1",
+      "used": "1"
+    },
+    {
+      "identifier": "box-c",
+      "capacity": "5",
+      "used": "0"
+    }
+  ]
+}
